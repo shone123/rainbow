@@ -1,9 +1,11 @@
-  Rainbow colors are 
+  Rainbow colors are and unicorn
 
  Orange
  Purple
  green
  yellow
  red
+ unicorn
 
 Rainbow colors added.
+added unicorn.
