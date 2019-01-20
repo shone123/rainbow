@@ -6,6 +6,9 @@
  yellow
  red
  unicorn
+ recycle!
 
 Rainbow colors added.
 added unicorn.
+
+Added recycle
