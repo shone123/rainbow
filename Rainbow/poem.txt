@@ -1,0 +1,9 @@
+  Rainbow colors are 
+
+ Orange
+ Purple
+ green
+ yellow
+ red
+
+Rainbow colors added.
